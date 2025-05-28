@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me:arpanatha7@gmail.com
 - ⚡ Fun fact: I talk to computers more than people on most days — and they usually understand me better! 😄
-- 🎓 I'm an undergraduate(B-Tech) student in Information Technology in Techno Main Salt lake....
+- 🎓 I'm an undergraduate(B-Tech) student in Information Technology in Techno Main Salt lake Kolkata West Bengal....
 -  💡 It is my Portfolio Link{https://arpanatha05.github.io/portfolio/ }
   
 
