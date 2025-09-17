@@ -26,31 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nodejs,nextjs,tailwind,django,flask" />
 </p>
 
-### ⚡ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,docker,kubernetes,aws,linux,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -71,12 +46,7 @@
   </a>
 </p>
 
----
 
-## 👀 Visitors Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=8A2BE2&style=flat-square" />
-</p>
 
 ---
 
