@@ -1,12 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Hello World" width="100%" />
-</p>
+
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Your+Name!;Full+Stack+Developer;ML+%7C+AI+Enthusiast;Open+Source+Contributor;Tech+Blogger+%26+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arpan+Atha!;Full+Stack+Developer;ML+%7C+AI+Enthusiast;Open+Source+Contributor;Tech+Blogger+%26+Mentor" alt="Typing SVG" />
 </p>
+
 
 ---
 
