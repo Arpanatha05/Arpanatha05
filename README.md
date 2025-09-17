@@ -1,59 +1,83 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Hello World" />
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Hello World" width="100%" />
 </p>
 
-<!-- Typing SVG (Animated intro) -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Your+Name!;Full+Stack+Developer;ML+%7C+AI+Enthusiast;Open+Source+Contributor;Tech+Blogger+%26+Mentor" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 I'm YOUR NAME!
+## 👨‍💻 About Me  
 
-💻 **Digital Craftsman | Developer | Programmer**  
-
-- 🔭 Currently working on **Full Stack Web Development & AI/ML**  
-- 🌱 Exploring **Cloud, DevOps, and System Design**  
-- 👯 Open to collaborating on **Open Source Projects**  
-- 📝 I write blogs on [Dev.to](https://dev.to/) and [Hashnode](https://hashnode.com)  
-- 📫 Reach me at: **your.email@example.com**
+🚀 Passionate **Full Stack Developer & Machine Learning Enthusiast**  
+🌱 Currently exploring **DevOps, Cloud & System Design**  
+⚡ Love solving **real-world problems with code**  
+📖 Sharing knowledge through blogs & open-source  
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack  
 
-### Languages & Frameworks
+### 🚀 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,react,nodejs,express,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nodejs,nextjs,tailwind,django,flask" />
 </p>
 
-### Tools & Platforms
+### ⚡ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,mysql,postgresql,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,docker,kubernetes,aws,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
 </p>
 
 ---
 
-## 🎉 Fun Fact
-✨ Did you know? You can add GIFs, emojis, and cool badges to your README!
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-<p align="center">💡 *"Code. Build. Learn. Repeat."* 🚀</p>
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Visitors Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=8A2BE2&style=flat-square" />
+</p>
+
+---
+
+<p align="center">✨ *"Code. Innovate. Share. Inspire."* 🚀</p>
