@@ -33,10 +33,10 @@
   <a href="https://www.linkedin.com/in/arpan-atha-620755369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/ArpanAtha2005?t=mDXZn7u3dWFlhy2c3LN1gg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://arpanatha05.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:your.email@example.com">
